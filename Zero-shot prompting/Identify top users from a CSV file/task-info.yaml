@@ -1,0 +1,8 @@
+type: edu
+files:
+  - name: utils/embeddings_utils.py
+    visible: false
+  - name: main.py
+    visible: true
+  - name: tests.py
+    visible: false
